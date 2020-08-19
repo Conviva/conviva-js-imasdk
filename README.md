@@ -1,8 +1,8 @@
 # conviva-js-imasdk
-Conviva IMA SDK module auto-detects ad events emitted by Google IMA SDK.
+Conviva Google IMA SDK module auto-detects ad events emitted by Google IMA SDK.
 
 ## Offline Library
-The Conviva JavaScript IMA SDK module is built on top of <a href="https://github.com/Conviva/conviva-js-coresdk">conviva-core-sdk</a>, is shared as offline library and should be included via the <script> tag in the application.
+The Conviva JavaScript Google IMA SDK module is built on top of <a href="https://github.com/Conviva/conviva-js-coresdk">conviva-core-sdk</a>, is shared as offline library and should be included via the <script> tag in the application.
 
 ``` 
 <script type="text/javascript" src="<PATH>/conviva-core-sdk.js"></script>
