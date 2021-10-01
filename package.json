@@ -1,0 +1,22 @@
+{
+  "name": "@convivainc/conviva-js-imasdk",
+  "version": "4.0.3",
+  "description": "Conviva Google IMA SDK module",
+  "main": "conviva-googleima-module.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Conviva/conviva-js-imasdk.git"
+  },
+  "keywords": [
+    "Conviva",
+    "module",
+    "google",
+    "ima"
+  ],
+  "author": "Conviva Inc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Conviva/conviva-js-imasdk/issues"
+  },
+  "homepage": "https://github.com/Conviva/conviva-js-imasdk#readme"
+}
