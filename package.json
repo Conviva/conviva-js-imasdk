@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Conviva/conviva-js-imasdk/issues"
   },
-  "homepage": "https://github.com/Conviva/conviva-js-imasdk#readme"
+  "homepage": "https://github.com/Conviva/conviva-js-imasdk#readme",
+  "dependencies": {
+    "@convivainc/conviva-js-coresdk": "^4.4.3"
+  }
 }
