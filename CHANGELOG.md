@@ -1,6 +1,9 @@
 
 # Changelog
 
+##  4.0.4 (16/MAY/2022)
+* Fixes an issue where false PLAYING state is reported due to AdBuffering event followed by false AdProgress event
+
 ##  4.0.3 (12/JUN/2020)
 * Fixes an issue where module version and name were not reported.
 * Collects UniversalAdIdValue and UniversalAdIdRegistry for Linear ads.
