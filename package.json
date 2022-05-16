@@ -1,6 +1,6 @@
 {
   "name": "@convivainc/conviva-js-imasdk",
-  "version": "4.0.3",
+  "version": "4.0.4",
   "description": "Conviva Google IMA SDK module",
   "main": "conviva-googleima-module.js",
   "repository": {
