@@ -1,5 +1,8 @@
 
 # Changelog
+##  4.0.8 (11/JUL/2022)
+* Fixes an issue with cleanup of ad-analytics object when playlist is enabled.
+* Updates Ad StreamType value as Content Streamtype
 
 ##  4.0.4 (16/MAY/2022)
 * Fixes an issue where false PLAYING state is reported due to AdBuffering event followed by false AdProgress event
