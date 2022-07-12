@@ -1,6 +1,6 @@
 
 # Changelog
-##  4.0.8 (11/JUL/2022)
+##  4.0.9 (12/JUL/2022)
 * Fixes an issue with cleanup of ad-analytics object when playlist is enabled.
 * Updates Ad StreamType value as Content Streamtype
 
