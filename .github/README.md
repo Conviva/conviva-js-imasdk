@@ -9,16 +9,7 @@ Via html:
 <script type="text/javascript" src="<PATH>/conviva-core-sdk.js"></script>
 <script type="text/javascript" src="<PATH>/conviva-googleima-module.js"></script>
 ```
-Via import/require:
-```
-const Conviva = require('<path>/conviva-js-coresdk');
-const ConvivaGoogleimaModule = require('<path>/conviva-googleima-module');
-```
 
-```
-import Conviva from '@convivainc/conviva-js-coresdk'
-import ConvivaGoogleimaModule from'@convivainc/conviva-googleima-module'
-```
 ## Install via npm 
 
 ```
@@ -29,6 +20,19 @@ npm install @convivainc/conviva-js-imasdk --save
 
 ```
 yarn add @convivainc/conviva-js-imasdk
+```
+
+Refer to following sample code to include Google IMA modules followed by Conviva modules.
+
+Via import/require:
+```
+const Conviva = require('<path>/conviva-js-coresdk');
+const ConvivaGoogleimaModule = require('<path>/conviva-js-imasdk');
+```
+
+```
+import Conviva from '@convivainc/conviva-js-coresdk'
+import ConvivaGoogleimaModule from'@convivainc/conviva-js-imasdk'
 ```
 
 ## Note:
