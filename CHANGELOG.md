@@ -1,5 +1,8 @@
 
 # Changelog
+### 4.0.10 (11/DEC/2022)
+* Supports Typescript. 
+
 ##  4.0.9 (12/JUL/2022)
 * Fixes an issue with cleanup of ad-analytics object when playlist is enabled.
 * Updates Ad StreamType value as Content Streamtype
